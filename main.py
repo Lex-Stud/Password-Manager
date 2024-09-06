@@ -24,7 +24,6 @@ def viewPass():
             
             if get_name.find(acc) >= 0:
                 print(line)
-                break
     print("Contul nu există")
 
 def deletePass():
